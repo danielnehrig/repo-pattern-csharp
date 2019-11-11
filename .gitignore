@@ -1,0 +1,10 @@
+.DS_Store
+.vs
+config.cfg
+release
+packages
+dist
+dep
+req
+bin
+obj
